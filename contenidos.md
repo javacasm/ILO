@@ -6,7 +6,7 @@
 
 !
 
-# I Love Open
+## \#ILoveOpen
 
 
 Lo "Open" es diverso
@@ -15,7 +15,7 @@ Lo "Open" es diverso
 
 !
 
-# I Love Open
+## \#ILoveOpen
 
 Lo "Open" es diverso
 
@@ -23,27 +23,25 @@ Lo "Open" es diverso
 
 !
 
-# I Love Open
+## \#ILoveOpen
 
-Lo "Open" es diverso
-
-Lo "Open" es de todos
+Lo "Open" es diverso y de todos
 
 ![./images/open_hardware_logo.png](./images/open_hardware_logo.png)
 
 
 !
 
-# I Love Open
+## \#ILoveOpen
 
-# EveryBody <3 Open Source
+### EveryBody <3 Open Source
 
 ![./images/open_hardware_logo.png](./images/i_love_open_source.jpg)
 
 
 !
 
-# I Love Open
+## \#ILoveOpen
 
 Desde lo pequeño
 
@@ -51,7 +49,7 @@ Desde lo pequeño
 
 !
 
-# I Love Open
+## \#ILoveOpen
 
 Desde lo pequeño
 
@@ -59,7 +57,7 @@ Desde lo pequeño
 
 !
 
-# I Love Open
+## \#ILoveOpen
 
 Hasta lo grande
 
@@ -67,9 +65,16 @@ Hasta lo grande
 
 !
 
-# I Love Open
+## \#ILoveOpen
 
-Hasta lo increible
+Hasta lo ¡¡increible!!
 
-![increible](./images/andreasHolldorferArm.jpg)
+![increible](./images/andreasHolldorferArm.png)
 
+!
+
+## \#ILoveOpen
+
+Y todo open, libre
+
+![github](./images/githubAndreas.png)
